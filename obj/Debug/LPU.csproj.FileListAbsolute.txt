@@ -1,0 +1,36 @@
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\ApplicationInsights.config
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\csc.exe
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\vbc.exe
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\LPU.dll.config
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\LPU.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\LPU.pdb
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.AI.Web.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.AI.Web.xml
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\obj\Debug\LPU.csprojResolveAssemblyReference.cache
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\obj\Debug\LPU.dll
+C:\Users\Akhil\Documents\Visual Studio 2015\Projects\LPU\LPU\obj\Debug\LPU.pdb
+E:\Akk\Projects\LPU\LPU\obj\Debug\LPU.csprojResolveAssemblyReference.cache
+E:\Akk\Projects\LPU\LPU\obj\Debug\LPU.dll
+E:\Akk\Projects\LPU\LPU\obj\Debug\LPU.pdb
